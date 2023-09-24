@@ -1,0 +1,41 @@
+
+video{
+  width:150px;
+  border:solid;
+  display:inline-block;
+}
+
+h3{
+  display:block;
+}
+
+div{
+  display:inline-block;
+  border:solid;
+  border-left: 10px;
+  border-top:0;
+}
+
+.cont{
+  display:inline-block;
+  border:solid;
+  border-right: 10px;
+  border-top:0;
+}
+
+.vid{
+  height:267px;
+  object-fit: contain;
+}
+
+.age{
+  font-size:1px;
+  color:hsl(241, 81, 100);
+  background-color:white;
+  border:none;
+}
+
+h1{
+  font-style:italic;
+  text-shadow:5px 5px 5px blue;
+}
